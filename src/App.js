@@ -6,6 +6,7 @@ function App() {
   });
 
   console.log("Component rendering");
+  // no dependencies
 
   return <button>Click Me</button>;
 }
